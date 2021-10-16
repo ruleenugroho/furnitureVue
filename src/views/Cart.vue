@@ -118,7 +118,6 @@
 </template>
 
 <script>
-// @ is an alias to /src
 import HeaderHijrah from '@/components/HeaderHijrah.vue'
 import FooterHijrah from '@/components/FooterHijrah.vue'
 
